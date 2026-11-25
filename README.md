@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-HAR-using-smartphone-motion-sensors.
